@@ -1,0 +1,10 @@
+vi db-version.properties
+   
+ majorVersion=20236
+ minorVersion=0
+ patchVersion=0
+ buildStamp=20236.0.0.0.0
+ modifiedUser=Devops
+ modifiedDate=2023-06-06
+ notes=2023.6.0.SQL Changes
+	
